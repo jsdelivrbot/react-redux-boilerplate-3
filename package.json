@@ -1,9 +1,9 @@
 {
-  "name": "kindar",
+  "name": "react-redux-boilerplate",
   "version": "1.0.0",
-  "description": "kindar is a social media application",
+  "description": "react-redux-boilerplate",
   "main": "index.js",
-  "repository": "https://kapozade@bitbucket.org/kapozade/kindar.git",
+  "repository": "https://github.com/Poseid10ur/react-redux-boilerplate.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
